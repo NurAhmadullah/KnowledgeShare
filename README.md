@@ -1,2 +1,2 @@
 # KnowledgeShare
-All the practice projects, used to share knowledge in team.
+All the practice projects in iOS, used to share knowledge in team.
